@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TharunSatya/newsdaily.git/static/css/main.4547605b.css",
+    "main.js": "/TharunSatya/newsdaily.git/static/js/main.d565fbcf.js",
+    "static/js/787.4c026eef.chunk.js": "/TharunSatya/newsdaily.git/static/js/787.4c026eef.chunk.js",
+    "index.html": "/TharunSatya/newsdaily.git/index.html",
+    "main.4547605b.css.map": "/TharunSatya/newsdaily.git/static/css/main.4547605b.css.map",
+    "main.d565fbcf.js.map": "/TharunSatya/newsdaily.git/static/js/main.d565fbcf.js.map",
+    "787.4c026eef.chunk.js.map": "/TharunSatya/newsdaily.git/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4547605b.css",
+    "static/js/main.d565fbcf.js"
+  ]
+}
